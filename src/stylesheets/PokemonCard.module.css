@@ -1,0 +1,15 @@
+.container {
+  padding: 25px;
+  margin: 15px 10px;
+  max-width: 90px;
+  display: inline-block;
+  box-shadow: 4px 4px 8px 4px #e3e3ed;
+}
+
+.title {
+  font-size: 15px;
+  font-weight: 800;
+  margin-bottom: 5px;
+  text-transform: capitalize;
+  text-align: center;
+}

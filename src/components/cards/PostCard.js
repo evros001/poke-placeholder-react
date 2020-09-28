@@ -1,11 +1,14 @@
 import React from 'react';
+import styles from '../../stylesheets/Post.module.css'
 
 function PostCard(props) {
 
+  // simple card component with no added logic needed and no use for hooks
+
   return (
-    <article class="list-item-container">
-      <h2 className="list-item-title">{props.postTitle}</h2>
-      <p className="list-item-body">{props.postCopy}</p>
+    <article className={styles.container}>
+      <h2 className={styles.title}>{props.postTitle}</h2>
+      <p className={styles.body}>{props.postCopy}</p>
     </article>
   );
 }
