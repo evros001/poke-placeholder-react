@@ -16,8 +16,8 @@ function PokemonCard(props) {
     fetchImg();
   }, []);
 
+  // make sure we display only when list data is available hence the && conditional
   return (
-    // make sure we display only when list data is available hence the && conditional
     <article className={styles.container}>
       <h2 className={styles.title}>{props.pokemonName}</h2>
       {pokemonImg &&

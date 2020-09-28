@@ -18,6 +18,7 @@ function PokemonList() {
     fetchApi();
   }, []);
 
+  // make sure we display only when list data is available hence the && conditional
   return (
     <section className={styles.container}>
         <h2 className={styles.title}>Pokemon</h2>
