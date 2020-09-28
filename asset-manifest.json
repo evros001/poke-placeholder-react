@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/poke-placeholder-react/static/css/main.2e338c7d.chunk.css",
-    "main.js": "/poke-placeholder-react/static/js/main.7bc2cd81.chunk.js",
-    "main.js.map": "/poke-placeholder-react/static/js/main.7bc2cd81.chunk.js.map",
+    "main.js": "/poke-placeholder-react/static/js/main.e530b8ee.chunk.js",
+    "main.js.map": "/poke-placeholder-react/static/js/main.e530b8ee.chunk.js.map",
     "runtime-main.js": "/poke-placeholder-react/static/js/runtime-main.bfc058ca.js",
     "runtime-main.js.map": "/poke-placeholder-react/static/js/runtime-main.bfc058ca.js.map",
     "static/js/2.21ffab2f.chunk.js": "/poke-placeholder-react/static/js/2.21ffab2f.chunk.js",
     "static/js/2.21ffab2f.chunk.js.map": "/poke-placeholder-react/static/js/2.21ffab2f.chunk.js.map",
     "index.html": "/poke-placeholder-react/index.html",
-    "precache-manifest.fb0860b83bc24ceaa05436f844f0d7d8.js": "/poke-placeholder-react/precache-manifest.fb0860b83bc24ceaa05436f844f0d7d8.js",
+    "precache-manifest.4217c1fad0c87bdb0ae5ee254a7615a2.js": "/poke-placeholder-react/precache-manifest.4217c1fad0c87bdb0ae5ee254a7615a2.js",
     "service-worker.js": "/poke-placeholder-react/service-worker.js",
     "static/css/main.2e338c7d.chunk.css.map": "/poke-placeholder-react/static/css/main.2e338c7d.chunk.css.map",
     "static/js/2.21ffab2f.chunk.js.LICENSE.txt": "/poke-placeholder-react/static/js/2.21ffab2f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bfc058ca.js",
     "static/js/2.21ffab2f.chunk.js",
     "static/css/main.2e338c7d.chunk.css",
-    "static/js/main.7bc2cd81.chunk.js"
+    "static/js/main.e530b8ee.chunk.js"
   ]
 }

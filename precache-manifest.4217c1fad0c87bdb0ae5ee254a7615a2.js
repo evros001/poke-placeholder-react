@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa5e127f0837592fc113f3936e8e3eaa",
+    "revision": "01c0cad669c2ed60ac39c895c9553ab7",
     "url": "/poke-placeholder-react/index.html"
   },
   {
-    "revision": "94c0601959f52f2c2622",
+    "revision": "b94eb645ce954ff9d8c3",
     "url": "/poke-placeholder-react/static/css/main.2e338c7d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poke-placeholder-react/static/js/2.21ffab2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94c0601959f52f2c2622",
-    "url": "/poke-placeholder-react/static/js/main.7bc2cd81.chunk.js"
+    "revision": "b94eb645ce954ff9d8c3",
+    "url": "/poke-placeholder-react/static/js/main.e530b8ee.chunk.js"
   },
   {
     "revision": "d2cb4c2ef528a0d918e5",
